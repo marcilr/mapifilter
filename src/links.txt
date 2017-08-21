@@ -8,9 +8,17 @@ Source related links
 
 Links
 =====
+3.15 Options for Directory Search
+-I dir
+-iquote dir
+-isystem dir
+-idirafter dir
+https://gcc.gnu.org/onlinedocs/gcc/Directory-Options.html
+
 Linux MAPI programming over
 ExchangeRPC
 Julien Kerihuel
 <j.kerihuel@openchange.org>
 OpenChange Project
-
+See mapi_sample1.c, p. 15
+https://www.ukuug.org/events/linux2007/2007/papers/Kerihuel.pdf
