@@ -17,5 +17,8 @@ links.txt
 mapifilter.txt
   mapifilter - MAPI filter
 
+packages.txt
+  Debian jessie 8.9 amd64 packages
+
 src/
   Source code
