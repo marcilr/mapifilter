@@ -5,6 +5,9 @@ Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+Makefile
+  Build mapi_sample1
+
 mapi_sample1.c
   openchange/doc/examples/mapi_sample1.c
 
