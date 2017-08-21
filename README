@@ -16,3 +16,6 @@ links.txt
 
 mapifilter.txt
   mapifilter - MAPI filter
+
+src/
+  Source code
