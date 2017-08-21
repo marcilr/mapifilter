@@ -1,0 +1,33 @@
+links.txt
+Created Mon Aug 21 09:19:59 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+libmapi related links
+
+
+Links
+=====
+Linux MAPI programming over
+ExchangeRPC
+Julien Kerihuel
+<j.kerihuel@openchange.org>
+OpenChange Project
+https://www.ukuug.org/events/linux2007/2007/papers/Kerihuel.pdf
+
+mapi_sample1.c
+This example shows a very basic MAPI program, including setup, login,
+and teardown.
+https://github.com/inverse-inc/openchange/blob/master/doc/doxygen/libmapi-examples.doxy
+
+openchange/libmapi
+https://github.com/openchange/openchange/tree/master/libmapi
+
+openchange/openchange
+Openchange Project
+https://github.com/openchange/openchange/tree/master/libmapi
+
+openchangeclient(1) - Linux man page
+openchangeclient - MAPI command line messaging
+https://linux.die.net/man/1/openchangeclient
+
