@@ -1,0 +1,21 @@
+packages.txt
+Created Mon Aug 21 15:12:55 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Debian jessie 8.9 amd64 packages
+
+
+MAPI packages
+=============
+libmapi-dev - Development files for the MAPI client library
+libmapi0 - Client library for the MAPI protocol
+libmapiadmin-dev - Development files for the MAPI administration client library
+libmapiadmin0 - Administration client library for the MAPI (Exchange/Outlook) protocol
+libmapipp-dev - Development files for the C++ MAPI client library
+libmapipp0 - Library files for the C++ MAPI client library
+libmapiproxy-dev - Development files for the MAPI proxy library
+libmapiproxy0 - Proxy library for the MAPI (Exchange/Outlook) protocol
+libmapistore-dev - Storage library for MAPI objects - development files
+libmapistore0 - Storage library for MAPI objects
+
