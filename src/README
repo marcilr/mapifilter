@@ -1,0 +1,18 @@
+README
+Created Mon Aug 21 14:29:33 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Source
+
+
+Filelist
+========
+mapi_sample1.c
+  openchange/doc/examples/mapi_sample1.c
+
+openchange/
+  Checked out with:
+  $ git clone https://github.com/openchange/openchange
+
+
