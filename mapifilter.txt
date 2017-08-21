@@ -1,0 +1,24 @@
+mapifilter.txt
+Created Mon Aug 21 08:43:46 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+MAPI Filter
+
+
+Messaging Application Programming Interface (MAPI) is a messaging
+architecture and a Component Object Model based API for Microsoft
+Windows. MAPI allows client programs to become (e-mail)
+messaging-enabled, -aware, or -based by calling MAPI subsystem
+routines that interface with certain messaging servers.  While
+MAPI is designed to be independent of the protocol, it is usually
+used with MAPI/RPC, the proprietary protocol that Microsoft
+Outlook uses to communicate with Microsoft Exchange.
+--en.wikipedia.org/wiki/MAPI
+
+
+Links
+=====
+MAPI
+From Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/MAPI
