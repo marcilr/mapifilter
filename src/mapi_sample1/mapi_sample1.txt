@@ -1,0 +1,21 @@
+mapi_sample1.txt
+Created Mon Aug 21 14:35:09 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Hello Exchange Sample
+o See mapi_sample1.c
+o Important Steps:
+  o Initialize MAPI library
+  o Open a MAPI Session
+  o Uninitialize MAPI library
+
+o Output:
+  $ gcc mapi_sample1.c ­o mapi_sample1 ‘pkg­config libmapi ­­cflags ­­libs‘
+  $ ./mapi_sample1
+          MAPIInitialize : MAPI_E_SUCCESS (0x0)
+          GetDefaultProfile : MAPI_E_SUCCESS (0x0)
+          MapiLogonEx : MAPI_E_SUCCESS (0x0)
+
+Kerihuel.pdf, p. 15
+https://www.ukuug.org/events/linux2007/2007/papers/Kerihuel.pdf
