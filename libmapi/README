@@ -5,6 +5,9 @@ Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+links.txt
+  libmapi related links
+
 openchange/
   Checked out with:
   $ git clone https://github.com/openchange/openchange
