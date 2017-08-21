@@ -15,6 +15,9 @@ Links
 -idirafter dir
 https://gcc.gnu.org/onlinedocs/gcc/Directory-Options.html
 
+File list of package libmapi-dev in jessie of architecture arm64
+https://packages.debian.org/jessie/arm64/libmapi-dev/filelist
+
 Linux MAPI programming over
 ExchangeRPC
 Julien Kerihuel
