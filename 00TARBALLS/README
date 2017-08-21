@@ -5,4 +5,16 @@ Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+openchange-2.3.tar.bz 
+  Checkout of openchange 2.3 
+
+  Checked out with:
+    $ git clone https://github.com/openchange/openchange
+
+
+Links
+=====
+openchange/openchange
+Openchange Project
+https://github.com/openchange/openchange/tree/master/libmapi
 
