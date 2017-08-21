@@ -8,7 +8,7 @@ Source
 
 Filelist
 ========
-mapi_sample1.c
+mapi_sample1/
   openchange/doc/examples/mapi_sample1.c
 
 openchange/
