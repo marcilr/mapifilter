@@ -1,0 +1,16 @@
+links.txt
+Created Mon Aug 21 14:32:50 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Source related links
+
+
+Links
+=====
+Linux MAPI programming over
+ExchangeRPC
+Julien Kerihuel
+<j.kerihuel@openchange.org>
+OpenChange Project
+
