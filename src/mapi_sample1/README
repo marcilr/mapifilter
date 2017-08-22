@@ -19,3 +19,6 @@ mapi_sample1.c
 
 mapi_sample1.txt
   mapi_sample1 documentation
+
+VERSION
+  mapifilter version
