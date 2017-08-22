@@ -1,5 +1,7 @@
 #include <libmapi/libmapi.h>
 
+#define UNUSED(argc) (void)(argc)
+
 #define   DEFAULT_PROFDB_PATH     "%s/.openchange/profiles.ldb"
 
 int main(int argc, char *argv[])
