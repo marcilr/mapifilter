@@ -19,10 +19,6 @@ openchange/
   Checked out with:
   $ git clone https://github.com/openchange/openchange
 
-openchange/
-  Checked out with:
-  $ git clone https://github.com/openchange/openchange
-
   Wow, looks very promising for moving messages:
 
   IMAPIFolder.c:480
