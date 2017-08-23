@@ -1,0 +1,20 @@
+README
+Created Wed Aug 23 07:32:38 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+fetchmail.txt
+  fetchmail.c
+  This example shows how to fetch mail from the server.
+
+  We initialize MAPI library with the profiles database path, retrieve
+  the default profile name and open connections to both the Exchange
+  message store provider (EMSMDB) and Exchange Address Book provider
+  (EMSABP).
+
+  --openchange/doc/doxygen/libmapi-examples.doxy:3
+    https://github.com/inverse-inc/openchange/blob/master/doc/doxygen/libmapi-examples.doxy
+    https://raw.githubusercontent.com/inverse-inc/openchange/master/doc/doxygen/libmapi-examples.doxy
+
