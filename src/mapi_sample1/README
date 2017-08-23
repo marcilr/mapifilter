@@ -18,7 +18,13 @@ Makefile
   Build mapi_sample1
 
 mapi_sample1.c
-  openchange/doc/examples/mapi_sample1.c
+  This example shows a very basic MAPI program, including setup,
+  login, and teardown.
+
+  See:
+    openchange/doc/examples/mapi_sample1.c
+
+  https://github.com/inverse-inc/openchange/blob/master/doc/doxygen/libmapi-examples.doxy
 
 mapi_sample1.txt
   mapi_sample1 documentation
