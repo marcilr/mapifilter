@@ -16,9 +16,8 @@ message store provider (EMSMDB) and Exchange Address Book provider
 
 ex-fetchmail-openstore Open the message store
 =============================================
-Now we have
-opened a connection to the Exchange message store provider, we can
-open the user mailbox store with OpenMsgStore() This function
+Now we have opened a connection to the Exchange message store provider,
+we can open the user mailbox store with OpenMsgStore() This function
 will return a set of pre-defined folder unique IDs (stored on double
 values) and a \em pointer to the upper object we can access in MAPI
 hierarchy.
