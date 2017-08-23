@@ -25,3 +25,33 @@ Julien Kerihuel
 OpenChange Project
 See mapi_sample1.c, p. 15
 https://www.ukuug.org/events/linux2007/2007/papers/Kerihuel.pdf
+
+mapi_sample1.c
+This example shows a very basic MAPI program, including setup, login,
+and teardown.
+See:
+  ./openchange/doc/examples/mapi_sample1.c
+https://github.com/inverse-inc/openchange/blob/master/doc/doxygen/libmapi-examples.doxy
+
+Openchange GUI Tools (SoC 2009)
+Tuesday, 16 June 2009
+
+The OpenChange project provides a portable Open Source
+implementation of the protocols used by Microsoft Exchange. The
+client-side libmapi and libmapiadmin libraries are an
+early result, and usable today.
+...
+Great descriptive text here.
+http://openchange2009.blogspot.com/2009_06_01_archive.html
+
+openchange/libmapi
+https://github.com/openchange/openchange/tree/master/libmapi
+
+openchange/openchange
+Openchange Project
+https://github.com/openchange/openchange/tree/master/libmapi
+
+openchangeclient(1) - Linux man page
+openchangeclient - MAPI command line messaging
+https://linux.die.net/man/1/openchangeclient
+
