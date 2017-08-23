@@ -8,9 +8,6 @@ Filelist
 dependencies.txt
   Dependencies
 
-headers.txt
-  Header files
-
 links.txt
   mapi_sample1.c related links
 
@@ -24,10 +21,8 @@ mapi_sample1.c
   See:
     openchange/doc/examples/mapi_sample1.c
 
-  https://github.com/inverse-inc/openchange/blob/master/doc/doxygen/libmapi-examples.doxy
+  https://github.com/openchange/openchange/blob/master/doc/examples/mapi_sample1.c
 
 mapi_sample1.txt
   mapi_sample1 documentation
 
-VERSION
-  mapifilter version
