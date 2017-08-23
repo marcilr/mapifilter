@@ -12,6 +12,9 @@ libmapi-examples.doxy
     fetchmail.c
     fetchappointment.c
 
+  https://github.com/inverse-inc/openchange/blob/master/doc/doxygen/libmapi-examples.doxy  
+  https://raw.githubusercontent.com/inverse-inc/openchange/master/doc/doxygen/libmapi-examples.doxy
+
 mapi_sample1/
   openchange/doc/examples/mapi_sample1.c
 
