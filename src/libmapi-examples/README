@@ -5,6 +5,13 @@ Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+libmapi-examples.doxy
+  openchange/doc/doxygen/libmapi-examples.doxy
+  Has descriptions of:
+    mapi_sample1.c
+    fetchmail.c
+    fetchappointment.c
+
 mapi_sample1/
   openchange/doc/examples/mapi_sample1.c
 
