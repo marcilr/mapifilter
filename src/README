@@ -8,6 +8,10 @@ Source
 
 Filelist
 ========
+libmapi-examples/
+  libmapi examples
+  https://github.com/inverse-inc/openchange/blob/master/doc/doxygen/libmapi-examples.doxy
+
 mapi_sample1/
   openchange/doc/examples/mapi_sample1.c
 
