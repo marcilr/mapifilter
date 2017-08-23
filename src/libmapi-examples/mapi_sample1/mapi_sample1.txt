@@ -3,6 +3,38 @@ Created Mon Aug 21 14:35:09 AKDT 2017
 Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 
 
+mapi_sample1.c
+
+This example shows a very basic MAPI program, including setup, login,
+and teardown.
+
+The first MAPI library function called is MAPIInitialize(). As its
+name suggests, this function initializes MAPI library: It creates the
+MAPI global context, opens the profile database store (database path
+passed as function parameter) and initialize Samba4 transport
+layer. This function must be called prior any other MAPI
+library operations.
+
+Once MAPI is initialized, we need to create a connection to Exchange and
+open MAPI sessions with the user credentials. This is the purpose of
+MapiLogonEx() which needs to be executed prior doing any effective
+code. This function takes a pointer on a mapi_session structure,
+the profile username and an optional password in case you decided to
+store it outside the profile. In the example above, we retrieve the
+default profile name from the database using GetDefaultProfile()
+Note that MapiLogonEx() opens connections to both the EMSMDB and
+EMSABP store providers. If you intend to interact with a single
+provider, use MapiLogonProvider() instead.
+
+Finally we call MAPIUninitialize() prior to leaving the
+function. This opaque function will clean up the memory allocated
+during the session and stored within the global MAPI context.
+
+--openchange/doc/doxygen/libmapi-examples.doxy:3
+  https://github.com/inverse-inc/openchange/blob/master/doc/doxygen/libmapi-examples.doxy
+  https://raw.githubusercontent.com/inverse-inc/openchange/master/doc/doxygen/libmapi-examples.doxy
+
+
 Hello Exchange Sample
 o See mapi_sample1.c
 o Important Steps:
