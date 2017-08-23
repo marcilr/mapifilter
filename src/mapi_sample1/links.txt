@@ -12,3 +12,12 @@ How to use pkg-config in Make
 CFLAGS=-g -Wall -Wextra $(shell pkg-config --cflags gtk+-3.0)
 LDFLAGS=$(shell pkg-config --libs gtk+-3.0)
 https://stackoverflow.com/questions/28533059/how-to-use-pkg-config-in-make
+
+inverse-inc/openchange
+openchange/doc/doxygen/libmapi-examples.doxy
+Has description of:
+  mapi_sample1.c
+  fetchmail.c
+  fetchappointment.c
+https://github.com/inverse-inc/openchange/blob/master/doc/doxygen/libmapi-examples.doxy
+
