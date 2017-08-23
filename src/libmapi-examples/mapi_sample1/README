@@ -18,9 +18,7 @@ mapi_sample1.c
   This example shows a very basic MAPI program, including setup,
   login, and teardown.
 
-  See:
-    openchange/doc/examples/mapi_sample1.c
-
+  openchange/doc/examples/mapi_sample1.c 
   https://github.com/openchange/openchange/blob/master/doc/examples/mapi_sample1.c
 
 mapi_sample1.txt
