@@ -33,7 +33,7 @@ RM        = /bin/rm
 .PHONY: all clean mostlyclean cycle dist
 
 all:
-	$(CC) mapi_sample1.c -o mapi_sample1 `pkg-config libmapi --cflags --libs`
+	$(CC) $(TARGET).c -o $(TARGET) `pkg-config libmapi --cflags --libs`
 
 clean: $(TARGET)
 	$(RM) -f $(TARGET)
