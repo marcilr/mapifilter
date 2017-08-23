@@ -18,3 +18,5 @@ fetchmail.txt
     https://github.com/inverse-inc/openchange/blob/master/doc/doxygen/libmapi-examples.doxy
     https://raw.githubusercontent.com/inverse-inc/openchange/master/doc/doxygen/libmapi-examples.doxy
 
+Makefile
+  Makefile for fetchmail
