@@ -11,3 +11,12 @@ Links
 MAPI
 From Wikipedia, the free encyclopedia
 https://en.wikipedia.org/wiki/MAPI
+
+Zentyal Wiki
+Zentyal Server is a Linux mail server that is natively
+compatible with Outlook for those seeking a Microsoft
+Exchange alternative.
+Zentyal Server is open source, released under the
+GNU General Public License (GPL) and runs on top of
+Ubuntu GNU/Linux.
+https://wiki.zentyal.org/wiki/Zentyal_Wiki
